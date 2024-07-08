@@ -1,5 +1,5 @@
 {
-    "name": "itpanda-llc/yandex-speechkit-sdk",
+    "name": "pz/yandex-speechkit-sdk",
     "description": "Library for integration with the Yandex SpeechKit speech technology service",
     "homepage": "https://github.com/itpanda-llc/yandex-speechkit-sdk",
     "license": "MIT",
